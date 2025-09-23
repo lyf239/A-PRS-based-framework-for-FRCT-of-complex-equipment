@@ -1,5 +1,6 @@
 # A-PRS-based-framework-for-FRCT-of-complex-equipment
-This repository contains the code release for “A production rule system based framework for fault root cause tracing of complex equipment driven by joint inference of knowledge and operational information”. It provides implementations for training and testing BiWGAN (Bidirectional Wasserstein Generative Adversarial Networks) and for applying the PRS (Production Rule System) to trace fault root causes in complex equipment.
+This repository contains the code release for “A production rule system based framework for fault root cause tracing of complex equipment driven by joint inference of knowledge and operational information”. It provides implementations for training and testing BiWGAN (Bidirectional Wasserstein Generative Adversarial Networks) and for applying the PRS (Production Rule System) to trace fault root causes in complex equipment. 
+Main Dependencies: 
 numpy==1.25.0
 torch==2.0.1
 scikit-learn==0.24.0
